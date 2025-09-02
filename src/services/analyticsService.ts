@@ -80,7 +80,7 @@ class AnalyticsService {
   private calculateCurrentStreak(tasks: Task[]): number {
     const completedDates = new Set<string>(
       tasks
-        .filter(task => task.completed)
+      .filter(task => task.completed)
         .map(task => {
           const d = new Date(task.updatedAt);
           d.setHours(0, 0, 0, 0);
