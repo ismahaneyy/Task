@@ -151,6 +151,6 @@ If you spot something odd or have an idea, open an issue. PRs are welcome.
 ---
 
 ### License
-MIT — use, learn, remix.
+[MIT License](LICENSE)
 
 
