@@ -9,6 +9,19 @@ This is a minimal, fast React app for planning tasks, tracking progress, and mai
 
 ---
 
+### Screenshots
+
+Login
+![Login](src/images/TaskImage1.jpg)
+
+Tasks
+![Tasks](src/images/TaskImage2.jpg.png)
+
+Analytics
+![Analytics](src/images/TaskImage3.jpg.png)
+
+---
+
 ### Features
 - **Tasks**: create, edit, complete, delete
 - **Realtime**: updates sync instantly across tabs/devices
