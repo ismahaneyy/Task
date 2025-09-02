@@ -4,6 +4,9 @@
 
 This is a minimal, fast React app for planning tasks, tracking progress, and maintaining healthy streaks. It uses Supabase for auth, database, and realtime updates, and Vite for a super quick developer experience.
 
+### Live Demo
+- Production: [task-q2y1.vercel.app](https://task-q2y1.vercel.app/)
+
 ---
 
 ### Features
