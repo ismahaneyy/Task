@@ -15,10 +15,10 @@ Login
 ![Login](src/images/TaskImage1.jpg)
 
 Tasks
-![Tasks](src/images/TaskImage2.jpg.png)
+![Tasks](src/images/TaskImage2.jpg)
 
 Analytics
-![Analytics](src/images/TaskImage3.jpg.png)
+![Analytics](src/images/TaskImage3.jpg)
 
 ---
 
