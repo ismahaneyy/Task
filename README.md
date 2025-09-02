@@ -93,7 +93,7 @@ Built after learning Prompt AI — my first build using that workflow.
   - `migrate-to-userid.sql`
   - `fix-rls.sql`
 
-You can run these in the Supabase SQL editor. For streak analytics, there’s also an optional RPC approach (see comments in code).
+You can run these in the Supabase SQL editor. For streak analytics, there’s also an optional RPC approach.
 
 ---
 
